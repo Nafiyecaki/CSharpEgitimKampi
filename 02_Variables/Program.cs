@@ -1,9 +1,8 @@
-﻿using System;
+﻿using Microsoft.CSharp;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-
 
 
 namespace _02_Variables
@@ -189,11 +188,11 @@ namespace _02_Variables
 
             #region klavyeden karakter girişi
 
-            char gender;
-            Console.Write("lütfen cinsiyet seçiniz");
-            gender = char.Parse(Console.ReadLine());
+            //char gender;
+            //Console.Write("lütfen cinsiyet seçiniz");
+            //gender = char.Parse(Console.ReadLine());
 
-            Console.WriteLine("seçtiğiniz cinsiyet: " + gender);
+            //Console.WriteLine("seçtiğiniz cinsiyet: " + gender);
 
 
             #endregion
