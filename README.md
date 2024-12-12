@@ -1,3 +1,7 @@
+# C# Programlama Temelleri ve Projeler
+
+Bu projelerde, Murat Yücedağ'ın rehberliğinde C# dilinin temel programlama kavramlarını öğrenip pratik yaparak uygulamalı projeler geliştirdim. Aşağıda, öğrendiğim konular ve tamamladığım projelerin özetlerini bulabilirsiniz.
+
 # Proje 1: ConsoleWriteline();
 Bu proje sayesinde C# dilinde temel programlama konularını öğrenip uyguladım. Yazdırma komutları, string ve int değişkenlerle çalışma gibi konular üzerinde pratik yaparak temel becerilerimi geliştirdim.
 # Proje 2: Değişkenler
